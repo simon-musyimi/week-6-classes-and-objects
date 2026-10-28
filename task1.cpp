@@ -1,3 +1,7 @@
+//name: simon musyimi
+//reg. no: CT101/G/26573/25
+//title: Library Book Management system 
+
 #include<iostream>
 #include<string>
 using namespace std;

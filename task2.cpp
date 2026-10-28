@@ -1,3 +1,7 @@
+//name: simon musyimi
+//reg. no: CT101/G/26573/25
+//title: Student Fee Management System 
+
 #include<iostream>
 #include<string>
 using namespace std;
